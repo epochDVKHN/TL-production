@@ -1,7 +1,11 @@
 # <h1 align="justify">Transfer Learning in Deep Multi-Layer Perceptrons: An Appraisal for Predictive Quality Assessment in Roll-Forming Processes 🏭🎯</h1>
-<div>
-  <img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
-</div>
+<div id="badge" align="center">
+  
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)(https://pytorch.org/)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)
+  
+  
+ </div>
 <p align="justify">
 The adoption of machine learning (ML) and deep learning (DL) models for discrete production processes has garnered much success, especially for predictive quality assessment based on machine parameter settings. However, on account of the dynamic nature of the production process and inherent product variability, there is limited time and monetary feasibility in the traditional data generation and acquisition approaches through experimentation or unrepresentative simulations. Furthermore, the ML and DL models would have to be trained tabula rasa for new product profiles which would require time and resource complexity. Considering these challenges, this thesis introduces transfer learning (TL) as a potential solution. TL leverages the existing related pre-trained model source domain knowledge when training on a sparse target domain, thereby enhancing model performance, convergence, and generalizability while exhibiting reduced target domain data
 dependency.<br><br>
