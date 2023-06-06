@@ -1,7 +1,7 @@
 # <h1 align="justify">Transfer Learning in Deep Multi-Layer Perceptrons: An Appraisal for Predictive Quality Assessment in Roll-Forming Processes 🏭🎯</h1>
 <div id="badge" align="center">
   
-  [![Python](https://img.shields.io/badge/Python-FFD43B?style=plastic&logo=python&logoColor=blue)](https://www.python.org/)
+  [![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=FFD43B)](https://www.python.org/)
   [![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-orange?style=plastic&logo=jupyter&logoColor=white)](https://jupyter.org/)
   [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)](https://pytorch.org/)
   [![NVIDIA](https://img.shields.io/badge/NVIDIA-GeForce_MX230-76B900?style=plastic&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-mx230/specifications/)
